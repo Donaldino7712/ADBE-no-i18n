@@ -1,4 +1,8 @@
-# Antimatter Dimensions - Break Eternity Port
+# Antimatter Dimensions - Break Eternity Port (without i18n)
+
+Currently based on commit [4d65b24](https://github.com/HexaVault/AD-breaketernity/commit/4d65b24).
+Current state: i18n backend removed, game doesn't run
+i18n reference count (outside of this file): 1672
 
 ## Modifying
 This repository is worked on using Visual Studio Code and if you don't know what you are doing, you should use so aswell.
